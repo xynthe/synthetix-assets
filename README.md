@@ -1,4 +1,4 @@
-# Synthetix Assets
+# Xynthe Assets
 
 A repository for reusable assets from the synthetix ecosystem.
 
